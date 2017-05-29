@@ -2,7 +2,5 @@
 ## sun
 
 * list
-
 * of 
-
-* itesm
+* items
