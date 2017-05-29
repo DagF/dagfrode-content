@@ -1,6 +1,6 @@
 # Index
 ## sun
 
-*list
-*of 
-*itesm
+* list
+* of 
+* itesm
