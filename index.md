@@ -2,7 +2,7 @@
 In this master project I will explore Continuous Deployment(CD) in Cyber Physical Systems(CPS).
 
 To do understand multiple things: 
-* Whate are Continuose Deployment?
+* Whate are Continuous Deployment?
   * What is the difference between integration and deployment?
   * How is it done today?
 * What are Cyber Physical systems?
