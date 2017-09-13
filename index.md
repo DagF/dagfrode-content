@@ -1,20 +1,23 @@
-# Continuous Deployment in Cyber Physical Systems
-In this master project I will explore Continuous Deployment(CD) in Cyber Physical Systems(CPS).
+# Increasing awareness about privacy and personal data with games
 
-To do understand multiple things: 
-* Whate are Continuous Deployment?
-  * What is the difference between integration and deployment?
-  * How is it done today?
-* What are Cyber Physical systems?
-  * IOT
-  * IOT-Protocols
-    * Zigby
-  * What challenges does CPS have?
-* What is Continuous Deployment in Cyber Physical Systems?
+## Project description
+```Advancements in information technology have made people less aware of the collection and usage of personal data. As a result, individuals rarely have clear knowledge of what information other people and firms store about them or how that information is used. The problem is made even more pressing with the increasing adoption of IoT and interactive objects, promoting new forms of interaction and data collection for which new strategies needs to be developed. 
+This task aims to investigate how to use serious games and scenario tools to evoke reflection about sharing of personal data and privacy and promote learning about these issues. Games in this context are intended as a way to help players to see things differently and reflect on their actions, their consequences, and tradeoffs of one´s choices. ``` [from project description](project-description)
 
-There is also a set of topics to explore related to the problem:
-* Whats is liquid software?
-* How does liquid software fit into 
+
+### Specialisation
+The task might be specialized to consider:
+
+1. challenges to personal data set by different types of technology (e.g. mobile, IoT, social media, …), 
+2. different types of games (e.g. mobile games, board games, …),
+3. different type of users (e.g. children, the elderly, …). 
+
+These specialization will be done at the beginning of the semester based on the interest and competencies of the student.
+
+### Plan
+1. The task will start with the identification of some relevant scenarios and a study of current literature.
+2. It will then continue with the iterative development of a prototype to be evaluated with users.
+3. The task is part of a cooperation with the Norwegian Computing Center.
 
 [Full list of abbreviations used in this project][abbreviations]
 
@@ -23,3 +26,4 @@ There is also a set of topics to explore related to the problem:
 
 [abbreviations]: /masters/blog?id=abbreviation.md
 [trello-board]: https://trello.com/b/kZroFdBV/masters
+[project-description]: https://www.idi.ntnu.no/education/oppgaveforslag.php?oid=2255
