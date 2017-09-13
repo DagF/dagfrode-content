@@ -27,7 +27,8 @@ These specialization will be done at the beginning of the semester based on the 
 ### Plan
 1. The task will start with the identification of some relevant scenarios and a study of current literature.
 2. It will then continue with the iterative development of a prototype to be evaluated with users.
-3. The task is part of a cooperation with the Norwegian Computing Center.
+
+The task is part of a cooperation with the Norwegian Computing Center.
 
 [Full list of abbreviations used in this project][abbreviations]
 
