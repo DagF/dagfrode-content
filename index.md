@@ -1,8 +1,18 @@
 # Increasing awareness about privacy and personal data with games
 
 ## Project description
-```Advancements in information technology have made people less aware of the collection and usage of personal data. As a result, individuals rarely have clear knowledge of what information other people and firms store about them or how that information is used. The problem is made even more pressing with the increasing adoption of IoT and interactive objects, promoting new forms of interaction and data collection for which new strategies needs to be developed. 
-This task aims to investigate how to use serious games and scenario tools to evoke reflection about sharing of personal data and privacy and promote learning about these issues. Games in this context are intended as a way to help players to see things differently and reflect on their actions, their consequences, and tradeoffs of one´s choices. ``` [from project description](project-description)
+```
+Advancements in information technology have made people less aware of the collection and usage of personal data. 
+As a result, individuals rarely have clear knowledge of what information other people and firms store about them 
+or how that information is used. The problem is made even more pressing with the increasing adoption of IoT and 
+interactive objects, promoting new forms of interaction and data collection for which new strategies needs to be 
+developed. 
+This task aims to investigate how to use serious games and scenario tools to evoke reflection about sharing of 
+personal data and privacy and promote learning about these issues. Games in this context are intended as a way
+to help players to see things differently and reflect on their actions, their consequences, and tradeoffs of one´s 
+choices.
+``` 
+[from project description](project-description)
 
 
 ### Specialisation
