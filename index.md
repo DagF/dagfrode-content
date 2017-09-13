@@ -12,7 +12,7 @@ personal data and privacy and promote learning about these issues. Games in this
 to help players to see things differently and reflect on their actions, their consequences, and tradeoffs of one´s 
 choices.
 ``` 
-[from project description](project-description)
+[from project description][project-description]
 
 
 ### Specialisation
