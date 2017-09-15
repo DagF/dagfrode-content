@@ -1,18 +1,16 @@
 # Increasing awareness about privacy and personal data with games
 
 ## Project description
-```
-Advancements in information technology have made people less aware of the collection and usage of personal data.
-As a result, individuals rarely have clear knowledge of what information other people and firms store about them
-or how that information is used. The problem is made even more pressing with the increasing adoption of IoT and
-interactive objects, promoting new forms of interaction and data collection for which new strategies needs to be
+
+> Advancements in information technology have made people less aware of the collection and usage of personal data.
+> As a result, individuals rarely have clear knowledge of what information other people and firms store about them
+> or how that information is used. The problem is made even more pressing with the increasing adoption of IoT and
+> interactive objects, promoting new forms of interaction and data collection for which new strategies needs to be
 developed.
-This task aims to investigate how to use serious games and scenario tools to evoke reflection about sharing of
-personal data and privacy and promote learning about these issues. Games in this context are intended as a way
-to help players to see things differently and reflect on their actions, their consequences, and tradeoffs of one´s
-choices.
-```
-[from project description][project-description]
+> This task aims to investigate how to use serious games and scenario tools to evoke reflection about sharing of
+> personal data and privacy and promote learning about these issues. Games in this context are intended as a way
+> to help players to see things differently and reflect on their actions, their consequences, and tradeoffs of one´s choices.
+> <cite>[from project description][project-description]</cite>
 
 
 ### Specialization
@@ -26,7 +24,7 @@ These specialization will be done at the beginning of the semester based on the 
 student.
 
 ### Plan
-1. The task will start with the identification of some relevant scenarios and a study of current literature.
+1. The task will start with the identification of some relevant scenarios and a study of [current literature][current-literature].
 2. It will then continue with the iterative development of a prototype to be evaluated with users.
 
 The task is part of a cooperation with the Norwegian Computing Center.
@@ -42,3 +40,5 @@ The task is part of a cooperation with the Norwegian Computing Center.
 [technology]: /masters/blog?id=specialization/technology.md
 [games]: /masters/blog?id=specialization/games.md
 [users]: /masters/blog?id=specialization/users.md
+[games]: /masters/blog?id=specialization/games.md
+[current-literature]: /masters/blog?id=literature/index.md
