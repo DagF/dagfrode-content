@@ -4,7 +4,8 @@
 
 ## Concepts
 
-### OWASP Top 10
+### OWASP Top 10 Privacy Risks Project
+OWASP has a list of the top 10 risks for privacy risks in web applications and how to prevent them.
 https://www.owasp.org/index.php/OWASP_Top_10_Privacy_Risks_Project
 
 ### Privacy by design
