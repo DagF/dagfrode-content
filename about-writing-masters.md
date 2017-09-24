@@ -75,20 +75,25 @@ From https://www.ntnu.edu/documents/139931/9317051/ReportEthics-phd.pdf
   - [ ] Optimize writing for reading flow.
   - [ ] check grammar
   - [ ] make sure illustrations and tables are clear, informative, and self explanatory.
-    
+
 
 From https://www.idi.ntnu.no/~keithd/advice/ntnu-master-eval.pdf
 
 ## Master August 2017
-__ ToDo __
+- [ ] print pages nutshell - practicalities
+
+from Power Point from supervisor
 
 ## Report structure
 __ ToDo __
 
 ## Design science
+print page ,design science guidelines, Research checklist,
+
 __ ToDo __
 
 ### Design Science Research in Information Systems
+print
 __ ToDo __
 
 ## Litt rew
