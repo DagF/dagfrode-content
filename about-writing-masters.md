@@ -25,40 +25,57 @@ From https://www.ntnu.edu/documents/139931/9317051/ReportEthics-phd.pdf
   * Description of objectives
   * Own contribution
   * Checklist
-    * Show insight and overview of problem domain
-    * Have reperesentative references to other work in the problem domain
-    * Put own work in a wider context and the work of others (references and biblography)
-    * Is the work useful (practically, theoretically)
-    * Show ability to pose adequate research questions and formulate a research method
+    - [ ]  Show insight and overview of problem domain
+    - [ ]  Have representative references to other work in the problem domain
+    - [ ]  Put own work in a wider context and the work of others (references and bibliography)
+    - [ ]  Is the work useful (practically, theoretically)
+    - [ ]  Show ability to pose adequate research questions and formulate a research method
 * Methods (25)
   * Level of skill
   * Execution / form of work
   * contribution
   * Autonomy
   * Checklist
-    * Show method and why it was chosen
-    * __ Are suitable formalisms chosen and used? __ Example?
-    * Show how ethical implications has been addressed, (human experiments, sensitive information)
-    * Does methods and investigations support the conclution
-    * Discuss threats to validity
-    * Eliminate contradictions in the reports
-    * Make sure conclution is supported by observations
-    * Discuss alternative interpretations of the observations if any. alternative interpretations may weakens the observation and therefore the conclution.
-    * Are the grounds for theconclution complete? What else could be explored. Waht factors were removed. What perspectives was not seen.
-    * Is the work procedure docummented and are there quality assurance in place?
-    * If it is a emperical study the process should be documented so other researchers could repeatable by other researchers.
-    * If software is developed, the quality should be taken into account, this includes documentation.
+    - [ ]  Show method and why it was chosen
+    - [ ]  __ Are suitable formalisms chosen and used? __ Example?
+    - [ ]  Show how ethical implications has been addressed, (human experiments, sensitive information)
+    - [ ]  Does methods and investigations support the conclusion
+    - [ ]  Discuss threats to validity
+    - [ ]  Eliminate contradictions in the reports
+    - [ ]  Make sure conclusion is supported by observations
+    - [ ]  Discuss alternative interpretations of the observations if any. alternative interpretations may weakens the observation and therefore the conclusion.
+    - [ ]  Are the grounds for the conclusion complete? What else could be explored. What factors were removed. What perspectives was not seen.
+    - [ ]  Is the work procedure documented and are there quality assurance in place?
+    - [ ]  If it is a empirical study the process should be documented so other researchers could repeatable by other researchers.
+    - [ ]  If software is developed, the quality should be taken into account, this includes documentation.
 * Result and discussion (35)
   * Result (work)
   * Analysis, discussion, and conclusion
   * Critical reflection
   * Own contribution / achievements
-  * Checklist __ ToDo __
+  * Checklist
+    - [ ] Promote new facts, ideas or insights the work presents
+    - [ ] Promote innovative elements in the work
+    - [ ] Does the work contain concrete results where all the necessary details have been worked out?  
+    - [ ] Show that the amount of work behind the report is sufficient
+    - [ ] Reflect on strengths and weakness in the report.
+    - [ ] Show what you have achieved by yourself and that you can work independently
 * Presentation (20)
   * Structure
   * Language
   * Form
-  * Checklist __ ToDo __
+  * Checklist
+  - [ ] Make it easy for the reader to get an overview over starting points and objectives.
+  - [ ] make is easy for the reader to see what is done and the conclusions and results.
+  - [ ] make it easy for the reader to maintain an overview from starting points and objectives to the results and the conclusion
+  - [ ] Make sure the report contains the necessary elements in an appropriate form.
+  - [ ] Make sure references are given and that the bibliography is in order.
+  - [ ] Put details unnecessary for the progression of the reading into the appendix.
+  - [ ] Have an overview chapter that makes the work more available
+  - [ ] Optimize writing for reading flow.
+  - [ ] check grammar
+  - [ ] make sure illustrations and tables are clear, informative, and self explanatory.
+    
 
 From https://www.idi.ntnu.no/~keithd/advice/ntnu-master-eval.pdf
 
